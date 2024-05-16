@@ -110,3 +110,5 @@ Thank you for your interest in my application. Please be aware that this is only
 - **COMMUNITY_DAILY_USD** - default user's daily budget
 - **COMMUNITY_USER** - default user's code
 
+### Contact US
+If there are some problems associated with this project, please contact us: titanrtx0714@gmail.com
